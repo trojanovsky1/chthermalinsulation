@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" data-name="Warstwa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 557.17 181.66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 5px;
+      }
+
+      .cls-3 {
+        font-family: Avenir-Roman, Avenir;
+      }
+
+      .cls-4 {
+        fill: #eb652f;
+      }
+
+      .cls-5 {
+        fill: #f5ae2f;
+      }
+
+      .cls-6 {
+        fill: #e6432d;
+      }
+
+      .cls-7 {
+        fill: #fbe731;
+      }
+
+      .cls-8 {
+        fill: #98c11f;
+      }
+
+      .cls-9 {
+        fill: #3d8036;
+      }
+
+      .cls-10 {
+        fill: #4ea638;
+      }
+
+      .cls-11 {
+        fill: #f69131;
+        stroke: #f69131;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-12 {
+        fill: #fff;
+        font-size: 32px;
+      }
+
+      .cls-13, .cls-14 {
+        font-family: Avenir-Black, Avenir;
+        font-weight: 800;
+      }
+
+      .cls-14 {
+        letter-spacing: -.09em;
+      }
+    </style>
+  </defs>
+  <g>
+    <g id="Warstwa_3" data-name="Warstwa 3">
+      <polygon class="cls-9" points="145.99 60.87 164.51 60.87 167.51 65.05 164.51 69.23 145.99 69.23 145.99 60.87"/>
+      <polygon class="cls-10" points="145.99 71.71 167.95 71.71 170.95 75.89 167.95 80.07 145.99 80.07 145.99 71.71"/>
+      <polygon class="cls-8" points="145.99 82.33 170.91 82.33 173.98 86.51 170.91 90.69 145.99 90.69 145.99 82.33"/>
+      <polygon class="cls-7" points="174.06 93.09 177.06 97.27 174.06 101.45 146.01 101.45 146.01 93.09 174.06 93.09"/>
+      <polygon class="cls-5" points="176.97 103.85 179.97 108.03 176.97 112.21 146 112.21 146 103.85 176.97 103.85"/>
+      <polygon class="cls-4" points="179.89 114.32 182.89 118.5 179.89 122.68 146 122.68 146 114.32 179.89 114.32"/>
+      <polygon class="cls-6" points="182.81 125.01 185.81 129.19 182.81 133.37 145.99 133.37 145.99 125.01 182.81 125.01"/>
+    </g>
+    <text class="cls-2" transform="translate(148.2 66.63)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-2" transform="translate(148.14 88.3)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-2" transform="translate(147.83 98.7)"><tspan x="0" y="0">D</tspan></text>
+    <text class="cls-2" transform="translate(147.83 109.39)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-2" transform="translate(147.83 120.51)"><tspan x="0" y="0">F</tspan></text>
+    <text class="cls-2" transform="translate(148.13 130.77)"><tspan x="0" y="0">G</tspan></text>
+    <text class="cls-2" transform="translate(148.14 77.47)"><tspan x="0" y="0">B</tspan></text>
+    <line class="cls-1" x1="146.35" y1="140.35" x2="146.35" y2="134.25"/>
+    <line class="cls-1" x1="146.39" y1="54.36" x2="152.37" y2="54.29"/>
+  </g>
+  <g>
+    <polygon class="cls-11" points="95.13 3.34 2 53.13 2 61.94 95.13 12.82 95.13 3.34"/>
+    <polygon class="cls-11" points="98.94 3.34 192.07 53.13 192.07 61.94 98.94 12.82 98.94 3.34"/>
+  </g>
+  <text class="cls-12" transform="translate(196.95 107.39)"><tspan class="cls-3" x="0" y="0">THERMAL </tspan><tspan class="cls-13" x="156.45" y="0">INSUL</tspan><tspan class="cls-14" x="251.26" y="0">A</tspan><tspan class="cls-13" x="272.03" y="0">TION</tspan></text>
+</svg>
